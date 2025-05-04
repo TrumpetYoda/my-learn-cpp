@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitHub\\my-learn-cpp\\1\\Chapter 1 - C\u002B\u002B20 Console Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE5B7E9-961D-4187-865A-6620CE57A68C}|Chapter 1 - C\u002B\u002B20 Console Application.vcxproj|C:\\GitHub\\my-learn-cpp\\1\\Chapter 1 - C\u002B\u002B20 Console Application\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7DE5B7E9-961D-4187-865A-6620CE57A68C}|Chapter 1 - C\u002B\u002B20 Console Application.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\GitHub\\my-learn-cpp\\1\\Chapter 1 - C\u002B\u002B20 Console Application\\Main.cpp",
+              "RelativeDocumentMoniker": "Main.cpp",
+              "ToolTip": "C:\\GitHub\\my-learn-cpp\\1\\Chapter 1 - C\u002B\u002B20 Console Application\\Main.cpp",
+              "RelativeToolTip": "Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-04T18:54:48.809Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
