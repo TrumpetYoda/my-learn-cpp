@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitHub\\my-learn-cpp\\5\\C\u002B\u002B20 Console Application - Chapter 5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B62B8838-6004-455C-A09E-93C813DF05E7}|C\u002B\u002B20 Console Application - Chapter 5.vcxproj|C:\\GitHub\\my-learn-cpp\\5\\C\u002B\u002B20 Console Application - Chapter 5\\string_view.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B62B8838-6004-455C-A09E-93C813DF05E7}|C\u002B\u002B20 Console Application - Chapter 5.vcxproj|solutionrelative:string_view.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62B8838-6004-455C-A09E-93C813DF05E7}|C\u002B\u002B20 Console Application - Chapter 5.vcxproj|C:\\GitHub\\my-learn-cpp\\5\\C\u002B\u002B20 Console Application - Chapter 5\\strings.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B62B8838-6004-455C-A09E-93C813DF05E7}|C\u002B\u002B20 Console Application - Chapter 5.vcxproj|solutionrelative:strings.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62B8838-6004-455C-A09E-93C813DF05E7}|C\u002B\u002B20 Console Application - Chapter 5.vcxproj|C:\\GitHub\\my-learn-cpp\\5\\C\u002B\u002B20 Console Application - Chapter 5\\constexpr_function.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B62B8838-6004-455C-A09E-93C813DF05E7}|C\u002B\u002B20 Console Application - Chapter 5.vcxproj|solutionrelative:constexpr_function.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62B8838-6004-455C-A09E-93C813DF05E7}|C\u002B\u002B20 Console Application - Chapter 5.vcxproj|C:\\GitHub\\my-learn-cpp\\5\\C\u002B\u002B20 Console Application - Chapter 5\\constexpr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B62B8838-6004-455C-A09E-93C813DF05E7}|C\u002B\u002B20 Console Application - Chapter 5.vcxproj|solutionrelative:constexpr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B62B8838-6004-455C-A09E-93C813DF05E7}|C\u002B\u002B20 Console Application - Chapter 5.vcxproj|C:\\GitHub\\my-learn-cpp\\5\\C\u002B\u002B20 Console Application - Chapter 5\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B62B8838-6004-455C-A09E-93C813DF05E7}|C\u002B\u002B20 Console Application - Chapter 5.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "string_view.cpp",
+              "DocumentMoniker": "C:\\GitHub\\my-learn-cpp\\5\\C\u002B\u002B20 Console Application - Chapter 5\\string_view.cpp",
+              "RelativeDocumentMoniker": "string_view.cpp",
+              "ToolTip": "C:\\GitHub\\my-learn-cpp\\5\\C\u002B\u002B20 Console Application - Chapter 5\\string_view.cpp",
+              "RelativeToolTip": "string_view.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-10T19:29:03.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "strings.cpp",
+              "DocumentMoniker": "C:\\GitHub\\my-learn-cpp\\5\\C\u002B\u002B20 Console Application - Chapter 5\\strings.cpp",
+              "RelativeDocumentMoniker": "strings.cpp",
+              "ToolTip": "C:\\GitHub\\my-learn-cpp\\5\\C\u002B\u002B20 Console Application - Chapter 5\\strings.cpp",
+              "RelativeToolTip": "strings.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-10T19:14:57.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "constexpr_function.cpp",
+              "DocumentMoniker": "C:\\GitHub\\my-learn-cpp\\5\\C\u002B\u002B20 Console Application - Chapter 5\\constexpr_function.cpp",
+              "RelativeDocumentMoniker": "constexpr_function.cpp",
+              "ToolTip": "C:\\GitHub\\my-learn-cpp\\5\\C\u002B\u002B20 Console Application - Chapter 5\\constexpr_function.cpp",
+              "RelativeToolTip": "constexpr_function.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-10T19:12:51.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "constexpr.cpp",
+              "DocumentMoniker": "C:\\GitHub\\my-learn-cpp\\5\\C\u002B\u002B20 Console Application - Chapter 5\\constexpr.cpp",
+              "RelativeDocumentMoniker": "constexpr.cpp",
+              "ToolTip": "C:\\GitHub\\my-learn-cpp\\5\\C\u002B\u002B20 Console Application - Chapter 5\\constexpr.cpp",
+              "RelativeToolTip": "constexpr.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-10T19:07:30.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\GitHub\\my-learn-cpp\\5\\C\u002B\u002B20 Console Application - Chapter 5\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\GitHub\\my-learn-cpp\\5\\C\u002B\u002B20 Console Application - Chapter 5\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-10T18:57:08.753Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
